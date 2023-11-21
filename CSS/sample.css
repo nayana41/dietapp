@@ -1,0 +1,24 @@
+/*
+analyzing styles
+*/
+/*element selector*/
+h2 {
+    color: aqua;
+}
+
+/*grouping selector*/
+h2,p {
+    text-align: center;
+}
+
+/*id selector*/
+#first {
+    color: aquamarine;
+    font: bold;
+}
+
+/*class selector*/
+.second {
+    color: azure;
+}
+

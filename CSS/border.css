@@ -1,0 +1,18 @@
+/*
+styles with border
+properties*/
+p {
+    border-style: dashed;
+    border-width: 10px;
+    border-color: aqua;
+    border-bottom: dashed;
+    border-left-style: hidden;
+    border-right-style: groove;
+    border-top-style: inset;
+    border-top-color: chartreuse;
+    border-left-color: brown;
+    border-right-color: black;
+    border-bottom-color: blueviolet;
+    
+
+}
